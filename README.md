@@ -102,8 +102,7 @@ An AI-powered platform focused on intelligent data analysis and insights.
 
 ## 🏆 Achievements
 
-- 🏅 Hackathon Participant
-- 🏅 Team Appreciation Award Recipient
+- 🏅 Third Place in NexAI Hackathon
 - 🏅 Active Problem Solver on LeetCode
 - 🏅 Full Stack and Machine Learning Project Developer
 
